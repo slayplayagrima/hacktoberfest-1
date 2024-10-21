@@ -1,3 +1,8 @@
+### Name: Agrima Gusain
+ - Place:India
+ - Bio: First year student(B.tech cs and ai)
+ - Github:
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
